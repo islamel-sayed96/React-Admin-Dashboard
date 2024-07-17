@@ -14,6 +14,7 @@ function Header() {
         <SearchBar />
         {/* {nav} */}
         <Nav />
+        
 
 
     </header>
