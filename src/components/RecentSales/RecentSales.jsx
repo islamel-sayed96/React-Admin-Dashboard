@@ -12,7 +12,7 @@ function RecentSales() {
     };
 
     const fetchData = () => { // de keda arrow function
-        fetch ('http://localhost:4000/transactions')
+        fetch ('https://islamel-sayed96.github.io/Dashboard-Json/transactions.json')
         .then(res => res.json())
         .then(data =>{
           setItems(data);

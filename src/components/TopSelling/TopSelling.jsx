@@ -11,7 +11,7 @@ function TopSelling() {
     };
 
     const fetchData = () => { // de keda arrow function
-        fetch ('http://localhost:4000/topselling')
+        fetch ('https://islamel-sayed96.github.io/Dashboard-Json/topselling.json')
         .then(res => res.json())
         .then(data =>{
           setItems(data);

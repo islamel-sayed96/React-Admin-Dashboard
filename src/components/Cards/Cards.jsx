@@ -5,7 +5,7 @@ function Cards() {
     const [cards,setCards] = useState ([])
 
     const fetchData = () => { // de keda arrow function
-      fetch ('http://localhost:4000/cards')
+      fetch ('https://islamel-sayed96.github.io/Dashboard-Json/cards.json')
       .then(res => res.json())
       .then(data =>{
         setCards(data);

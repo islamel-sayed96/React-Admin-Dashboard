@@ -10,7 +10,7 @@ function News() {
         setFilter(filter);
     };
     const fetchData = () => { // de keda arrow function
-        fetch ('http://localhost:4000/news')
+        fetch ('https://islamel-sayed96.github.io/Dashboard-Json/news.json')
         .then(res => res.json())
         .then(data =>{
           setNews(data);

@@ -11,7 +11,7 @@ function RecentActivity() {
     };
 
     const fetchData = () => { // de keda arrow function
-        fetch ('http://localhost:4000/recentactiviy')
+        fetch ('https://islamel-sayed96.github.io/Dashboard-Json/recentactiviy.json')
         .then(res => res.json())
         .then(data =>{
           setItems(data);
