@@ -1,4 +1,101 @@
 {
+    "customers": [
+      {
+      "id": 1,
+      "name": "Ahmed Ali"
+      },
+      {
+      "id": 2,
+      "name": "Aya Elsayed"
+      },
+
+      {
+      "id": 3,
+      "name": "Mina Adel"
+      },
+      {
+      "id": 4,
+      "name": "Sarah Reda"
+      },
+      {
+      "id": 5,
+      "name": "Mohamed Sayed"
+      }
+  ],
+  "transactions": [
+      {
+      "id": 1,
+      "customer_id": 1,
+      "name": "Ahmed Ali",
+      "date": "2022-01-01",
+      "amount": 1000,
+      "status": "Rejected"
+      },
+      {
+      "id": 2,
+      "customer_id": 1,
+      "name": "Aya Elsayed",
+      "date": "2022-01-02",
+      "amount": 2000,
+      "status": "Approved"
+      },
+      {
+      "id": 3,
+      "customer_id": 2,
+      "name": "Mina Adel",
+      "date": "2022-01-01",
+      "amount": 550,
+      "status": "Pending"
+      },
+      {
+      "id": 4,
+      "customer_id": 3,
+      "name": "Sarah Reda",
+      "date": "2022-01-01",
+      "amount": 500,
+      "status": "Rejected"
+      },
+      {
+      "id": 5,
+      "customer_id": 2,
+      "name": "Mohamed Sayed",
+      "date": "2022-01-02",
+      "amount": 1300,
+      "status": "Approved"
+      },
+      {
+      "id": 6,
+      "customer_id": 4,
+      "name": "islam elSayed",
+      "date": "2022-01-01",
+      "amount": 750,
+      "status": "Pending"
+      },
+      {
+      "id": 7,
+      "customer_id": 3,
+      "name": "Mo salah",
+      "date": "2022-01-02",
+      "amount": 1250,
+      "status": "Approved"
+      },
+      {
+      "id": 8,
+      "customer_id": 5,
+      "name": "Alaa ali",
+      "date": "2022-01-01",
+      "amount": 2500,
+      "status": "Pending"
+      },
+      {
+      "id": 9,
+      "customer_id": 5,
+      "name": "abdelfattah el-",
+      "date": "2022-01-02",
+      "amount": 875,
+      "status": "Approved"
+      }
+    ],
   "cards": [
     {
       "_id": 1,

@@ -2,6 +2,7 @@ import React from 'react'
 import Cr7 from '../../images/assets/items/cr7 1.jpg'
 import Messi from '../../images/assets/items/messi 1.jpg'
 import Mortada from '../../images/assets/items/mortada-mansour-7156a1e4-f3e7-444c-9cd2-ac144f32f2f-resize-750.webp'
+import Route from '../../images/assets/items/route.jpg'
 
 
 
@@ -20,6 +21,25 @@ function NavMessage() {
             <span className='badge rounded-pill bg-primary p-2 ms-2'>
               View all
             </span>
+          </a>
+        </li>
+
+        <li>
+          <hr className='dropdown-divider' />
+        </li>
+
+        <li className='message-item'>
+          <a href="#">
+            <img 
+            src={Route} 
+            alt="" 
+            className='rounded-circle'
+            />
+            <div>
+              <h4>Route </h4>
+              <p>مبروك يا هندسه حضرتك معانا في routetechsummit24 💖</p>
+              <p>4 hrs. ago</p>
+            </div>
           </a>
         </li>
 
