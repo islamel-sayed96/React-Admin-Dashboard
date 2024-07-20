@@ -1,3 +1,35 @@
+![admindashboard](https://github.com/user-attachments/assets/64c8a20a-a55a-454e-99e9-4f8149bc4ed9)
+
+# Description:
+
+ <P>Responsive admin dashboard page using react Js, bootstrap 5, JSON server.</P>
+
+
+Uploading admin dashboard.mp4…
+
+
+# ⚡️ Key features:
+<P>
+-- Responsive Admin Dashboard <br/>
+
+-- React Admin Dashboard <br/>
+
+-- React Graphs and Charts (eChart, APEXCHARTS) <br/>
+
+-- Animated Side Menu and Navigation <br/>
+
+-- React Bootstrap 5 <br/>
+
+-- Data Fetching from mock api  <br/>
+
+-- JSON server api endpoint <br/>
+
+-- Dynamic Data Mapping <br/>
+
+-- Bootstrap Cards Design <br/>
+</P>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
