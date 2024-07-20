@@ -5,9 +5,6 @@
  <P>Responsive admin dashboard page using react Js, bootstrap 5, JSON server.</P>
 
 
-Uploading admin dashboard.mp4…
-
-
 # ⚡️ Key features:
 <P>
 -- Responsive Admin Dashboard <br/>
@@ -28,6 +25,10 @@ Uploading admin dashboard.mp4…
 
 -- Bootstrap Cards Design <br/>
 </P>
+
+
+
+https://github.com/user-attachments/assets/b20c37ea-6ea4-429a-9bf5-8aeed56de0c3
 
 
 # Getting Started with Create React App
